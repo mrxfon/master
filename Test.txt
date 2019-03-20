@@ -7,3 +7,4 @@ dodao 4 remote
 2 komit za rebase
 local 1 komit za rebase
 komit za rebase local
+1 ponovo za rebase local
