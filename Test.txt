@@ -8,3 +8,6 @@ dodao 4 remote
 local 1 komit za rebase
 komit za rebase local
 1 ponovo za rebase local
+1 ponovo za rebase
+2 ponovo za rebase
+
