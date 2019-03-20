@@ -1,3 +1,4 @@
 Inicijalno
 dodato 1
 dodao 2
+dodao 3 remote
